@@ -4020,12 +4020,6 @@
                   ellipsis: !0,
                   target: 'help/shortcuts.shortcuts'
                 },
-                // {
-                //   name: 'Report Issues',
-                //   href: 'https://github.com/viliusle/miniPaint/issues'
-                // },
-                // { divider: !0 },
-                // { name: 'About', ellipsis: !0, target: 'help/about.about' }
               ]
             }
           ]
